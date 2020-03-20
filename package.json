@@ -3,7 +3,7 @@
   "version": "1.2.0",
   "description": "Track the Monetus FIA",
   "repository": {
-    "url": "zavan/monetus-fia-bot",
+    "url": "monetus-fia-bot",
     "type": "git"
   },
   "main": "index.js",
@@ -14,9 +14,8 @@
     "test": "yarn lint && yarn jest"
   },
   "engines": {
-    "node": ">=8.5.0"
+    "node": ">=8.16.0"
   },
-  "author": "Felipe Zavan <felipe@zavan.me>",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
