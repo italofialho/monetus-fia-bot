@@ -10,7 +10,7 @@
   "scripts": {
     "dev": "supervisor -x micro-bot -- index.js -e",
     "start:local": "micro-bot -e",
-    "start": "micro-bot",
+    "start": "micro-bot -p $PORT",
     "lint": "eslint .",
     "test": "yarn lint && yarn jest"
   },
