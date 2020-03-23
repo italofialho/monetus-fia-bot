@@ -44,3 +44,4 @@ db/*.db
 .vscode
 
 images/*.png
+images/**/*.png
