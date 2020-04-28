@@ -21,9 +21,11 @@
   "dependencies": {
     "axios": "^0.18.0",
     "dotenv": "^5.0.1",
+    "lodash": "^4.17.15",
     "lodash.chunk": "^4.2.0",
     "micro-bot": "^2.5.3",
     "moment": "^2.24.0",
+    "moment-business-days": "^1.2.0",
     "moment-timezone": "^0.5.28",
     "mongoose": "^5.9.7",
     "node-html-to-image": "^1.1.0",

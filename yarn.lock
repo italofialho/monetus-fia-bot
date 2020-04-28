@@ -2842,6 +2842,11 @@ module-alias@^2.2.2:
   resolved "https://registry.yarnpkg.com/module-alias/-/module-alias-2.2.2.tgz#151cdcecc24e25739ff0aa6e51e1c5716974c0e0"
   integrity sha512-A/78XjoX2EmNvppVWEhM2oGk3x4lLxnkEA4jTbaK97QKSDjkIoOsKQlfylt/d3kKKi596Qy3NP5XrXJ6fZIC9Q==
 
+moment-business-days@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/moment-business-days/-/moment-business-days-1.2.0.tgz#6172f9f38dbf443c2f859baabeabbd2935f63d65"
+  integrity sha512-QJlceLfMSxy/jZSOgJYCKeKw+qGYHj8W0jMa/fYruyoJ85+bJuLRiYv5DIaflyuRipmYRfD4kDlSwVYteLN+Jw==
+
 moment-timezone@^0.5.10, moment-timezone@^0.5.25, moment-timezone@^0.5.28:
   version "0.5.28"
   resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.28.tgz#f093d789d091ed7b055d82aa81a82467f72e4338"
